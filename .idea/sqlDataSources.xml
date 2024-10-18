@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="29119c41-6f5a-46e6-975f-f13aef5cc012" name="@localhost Mapping">
+      <data-sources db="a07d428d-3231-4bc6-8623-5ea7563e6dc5" />
+      <scope>
+        <node negative="1">
+          <node kind="schema" qname="tilas" />
+          <node kind="database" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
